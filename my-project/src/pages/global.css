@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+#__next {
+  min-height: 100%;
+}
